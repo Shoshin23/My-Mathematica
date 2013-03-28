@@ -11,3 +11,4 @@ What you'll find :
 
 Tutorial.nb:
 * Mathematica basics. A little tutorial actually.
+You can use [this](http://www.wolfram.com/products/player/) to play the tutorials. 
